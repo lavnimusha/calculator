@@ -1,3 +1,15 @@
+
+# Calculator
+
+## Live 
+https://lavnimusha.github.io/calculator/
+
+## Skills
+HTML, CSS and React
+
+## Description
+A simple react based calculator app for basic math.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
