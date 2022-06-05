@@ -10,6 +10,9 @@ HTML, CSS and React
 ## Description
 A simple react based calculator app for basic math.
 
+
+<img width="1347" alt="Screen Shot 2022-06-05 at 1 07 41 PM" src="https://user-images.githubusercontent.com/40901373/172068766-ea5f9951-9b17-4381-9f7c-2a7ed288d45a.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
